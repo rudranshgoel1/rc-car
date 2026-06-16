@@ -1,5 +1,5 @@
 # Wireless RC Car
-![image](images/3dview1.png)
+![image](images/bottomview3d.png)
 
 ### Why did I make it?
 bcz i need more hardware projects in my portfolio and also because it seemed like a fun hardware project which was kinda beginner friendly.
@@ -30,8 +30,8 @@ Features:
 ![image](images/bottom.png)
 
 ### 3D view of all parts 
-![image](images/topleftside.png)
-![image](images/toprightside.png)
+![image](images/topview3d.png)
+![image](images/bottomview3d.png)
 ![image](images/bottom.png)
 ![image](images/3dview1.png)
 
