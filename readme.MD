@@ -21,7 +21,8 @@ Features:
 ![image](images/buildtransmitter.jpeg)
 
 ### Working Video
-<video src="/images/build.mp4" width="100%"></video>
+[![Working Video - Click to see](https://cdn.hackclub.com/01a094ab-44b6-7a4d-9bb2-7d6f78714119/video_clip_2026-08-30_16-27-05-290.mp4)](https://cdn.hackclub.com/01a094ab-44b6-7a4d-9bb2-7d6f78714119/video_clip_2026-08-30_16-27-05-290.mp4)
+
 
 ### Schematic
 ![image](images/schem1.png)
