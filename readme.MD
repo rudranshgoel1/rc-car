@@ -16,6 +16,13 @@ Features:
 - Custom PCB Art (really cool)
 - Custom case
 
+### Fully Built Images
+![image](images/buildtop.jpeg)
+![image](images/buildtransmitter.jpeg)
+
+### Working Video
+<video src="https://cdn.hackclub.com/01a094ab-44b6-7a4d-9bb2-7d6f78714119/video_clip_2026-08-30_16-27-05-290.mp4" title="images/build.mp4" width="100%"></video>
+
 ### Schematic
 ![image](images/schem1.png)
 ![image](images/schem2.png)
